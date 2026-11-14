@@ -18,9 +18,9 @@ REST APIs, and transaction-safe business logic.
 - API documentation and deployment
 
 ## 📌 Featured Projects
-- [Banking App API](link-to-repo): Spring Boot app for viewing account info,
+- Spring Boot app for viewing account info,
   depositing, and withdrawing money
 
 ## 📫 Contact
-- Email:kaleabShewadege@gmail.com
+- Email:kaleabshewadege@gmail.com
 - LinkedIn:www.linkedin.com/in/kaleab-shewadeg-72b671392
